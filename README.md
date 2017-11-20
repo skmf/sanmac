@@ -19,3 +19,5 @@ def sample_method
   puts "Hello"
 end
 ```
+
+Using Branch feature
